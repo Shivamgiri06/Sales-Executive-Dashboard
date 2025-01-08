@@ -1,5 +1,5 @@
 # Sales-Executive-Dashboard
-This project is a Sales Performance Dashboard built using Power BI, showcasing the sales data and performance metrics across various cities. The dashboard provides insights into the total sales, target achievement percentages, and performance gaps of sales executives.
+This project is a Sales Performance Dashboard built using Excel, showcasing the sales data and performance metrics across various cities. The dashboard provides insights into the total sales, target achievement percentages, and performance gaps of sales executives.
 
 # Features:
 City-wise Analysis: Data segmented for cities like Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat.
